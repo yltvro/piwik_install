@@ -1,4 +1,4 @@
-# piwik 安装：<br>
+# piwik/Matomo 安装：<br>
 ## 系统环境RHEL7，PHP7，MySQL<br>
 进入/var/www/html目录  <br>
 $ git clone https://github.com/piwik/piwik.git<br>
